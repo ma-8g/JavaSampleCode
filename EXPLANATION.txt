@@ -1,0 +1,7 @@
+・このプロジェクトについて
+　Java のサンプルコード参照用プロジェクト
+・IDE
+　Eclipse を使用。
+・プロジェクトと GitHub リポジトリの作成方法
+　以下のサイトを参考に作成
+　https://qiita.com/yasushi-jp/items/806230a77a2be3855c9d
